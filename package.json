@@ -2,6 +2,10 @@
   "name": "bot-akshayanand",
   "description": "akshayanand's bot",
   
+  "engines": {
+    "node": "6.9.4",
+	"npm" : "2.1.x"
+  },
   "scripts": {
   "start": "npm install botkit"
   },
