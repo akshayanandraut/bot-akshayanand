@@ -6,6 +6,9 @@
     "node": "6.9.4"
   },
   "scripts": {
-  "start": "npm install botkit; node app.js"
+  "start": "npm install botkit"
+  },
+  "scripts": {
+  "start": " node app.js"
   }
 }
