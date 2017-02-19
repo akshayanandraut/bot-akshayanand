@@ -4,7 +4,7 @@ var controller = Botkit.slackbot();
 
 var bot = controller.spawn({
 
-  token: "xoxb-143511011970-HUSJQHVXtWYbqpAJNUABVsmF"
+  token: "xoxb-143511011970-fSKjWd9p8ZjImjdaeZiBj0Nf"
 
 })
 
